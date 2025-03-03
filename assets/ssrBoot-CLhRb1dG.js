@@ -1,0 +1,1 @@
+import{s,o as t,X as e,bX as n}from"./index-TexIIK_8.js";function i(){const o=s(!1);return t(()=>{window.requestAnimationFrame(()=>{o.value=!0})}),{ssrBootStyles:e(()=>o.value?void 0:{transition:"none !important"}),isBooted:n(o)}}export{i as u};
